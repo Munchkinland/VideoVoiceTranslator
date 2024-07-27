@@ -1,0 +1,8 @@
+moviepy==1.0.3
+openai==0.27.0
+gtts==2.2.3
+pydub==0.25.1
+tiktoken
+pyttsx3
+pydub
+python-dotenv
